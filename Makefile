@@ -1,4 +1,4 @@
-CHIBIOS = /home/base/tmp/ChibiOS/
+CHIBIOS = /home/snajpa/tmp/ChibiOS
 ##############################################################################
 # Build global options
 # NOTE: Can be overridden externally.
