@@ -5,3 +5,4 @@ Defines 'led' command.
 
 Change CHIBIOS path in Makefile to your own.
 
+Program via https://github.com/texane/stlink
